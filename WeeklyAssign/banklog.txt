@@ -1,0 +1,206 @@
+Mon Dec 20 18:09:43 2021	Loading account data...
+Mon Dec 20 18:09:43 2021	Done
+Mon Dec 20 18:09:50 2021	demo
+Mon Dec 20 18:10:10 2021	Success after 1 login attempts
+Mon Dec 20 18:10:15 2021	show accounts
+Mon Dec 20 18:10:24 2021	help
+Mon Dec 20 18:10:28 2021	display account
+Mon Dec 20 18:10:28 2021	account > 3
+Mon Dec 20 18:10:31 2021	add transaction > home > add transaction
+Mon Dec 20 18:10:38 2021	debit > credit > home > credit
+Mon Dec 20 18:10:40 2021	amount > 50
+Mon Dec 20 18:10:43 2021	New balance: 1050
+Mon Dec 20 18:10:43 2021	debit > credit > home > debit
+Mon Dec 20 18:10:51 2021	amount > 25.5
+Mon Dec 20 18:10:53 2021	New balance: 1024
+Mon Dec 20 18:10:53 2021	debit > credit > home > home
+Mon Dec 20 18:11:10 2021	search name
+Mon Dec 20 18:11:10 2021	enter name > Bob
+Mon Dec 20 18:11:12 2021	i. Bob Boberson
+Mon Dec 20 18:11:12 2021	ii. Home
+Mon Dec 20 18:11:12 2021	Select number > 1
+Mon Dec 20 18:11:20 2021	View Account: Bob Boberson
+Mon Dec 20 18:11:33 2021	help
+Mon Dec 20 18:11:38 2021	new account
+Mon Dec 20 18:11:38 2021	Customer Name > Fuzzy Lumpkins
+Mon Dec 20 18:11:44 2021	SSN >SSN hidden
+Mon Dec 20 18:11:49 2021	Account Created
+Mon Dec 20 18:12:02 2021	show accounts
+Mon Dec 20 18:12:08 2021	close account
+Mon Dec 20 18:12:08 2021	account > 9
+Mon Dec 20 18:12:12 2021	Account closed
+Mon Dec 20 18:12:16 2021	close account
+Mon Dec 20 18:12:16 2021	account > 8
+Mon Dec 20 18:12:20 2021	Account not closed
+Mon Dec 20 18:12:23 2021	close account
+Mon Dec 20 18:12:23 2021	account > 44
+Mon Dec 20 18:12:24 2021	Account not found
+Mon Dec 20 18:12:29 2021	quit
+Mon Dec 20 18:17:37 2021	Loading account data...
+Mon Dec 20 18:17:37 2021	Done
+Mon Dec 20 18:17:40 2021	demo
+Mon Dec 20 18:17:41 2021	Success after 1 login attempts
+Mon Dec 20 18:17:48 2021	help
+Mon Dec 20 18:17:51 2021	show accounts
+Mon Dec 20 18:18:18 2021	display account
+Mon Dec 20 18:18:18 2021	account > 10
+Mon Dec 20 18:18:20 2021	View Account: Mon Dec 20 18:18:20 2021	Timeguy LastnameMon Dec 20 18:18:20 2021	add transaction > home > add transaction
+Mon Dec 20 18:18:27 2021	debit > credit > home > debit
+Mon Dec 20 18:18:37 2021	amount > 15
+Mon Dec 20 18:18:39 2021	New balance: 5
+Mon Dec 20 18:18:39 2021	debit > credit > home > debit
+Mon Dec 20 18:18:43 2021	amount > 15
+Mon Dec 20 18:18:46 2021	Insufficient Balance
+Mon Dec 20 18:18:46 2021	debit > credit > home > home
+Mon Dec 20 18:19:00 2021	display account
+Mon Dec 20 18:19:00 2021	account > 10
+Mon Dec 20 18:19:02 2021	View Account: Mon Dec 20 18:19:02 2021	Timeguy LastnameMon Dec 20 18:19:02 2021	add transaction > home > home
+Mon Dec 20 18:19:11 2021	close account
+Mon Dec 20 18:19:11 2021	account > 10
+Mon Dec 20 18:19:15 2021	Account to close: Timeguy Lastname
+Mon Dec 20 18:19:17 2021	Account closed
+Mon Dec 20 18:19:23 2021	display account
+Mon Dec 20 18:19:23 2021	account > 3
+Mon Dec 20 18:19:24 2021	View Account: Mon Dec 20 18:19:24 2021	Parker SmithMon Dec 20 18:19:24 2021	add transaction > home > quit
+Mon Dec 20 18:25:23 2021	Loading account data...
+Mon Dec 20 18:25:23 2021	Done
+Mon Dec 20 18:25:26 2021	Login attempt by user: demo
+Mon Dec 20 18:25:28 2021	Success after 1 login attempts
+Mon Dec 20 18:25:32 2021	quit
+Mon Dec 20 18:27:16 2021	Loading account data...
+Mon Dec 20 18:27:16 2021	Done
+Mon Dec 20 18:27:19 2021	Login attempt by user: demo
+Mon Dec 20 18:27:20 2021	Success after 1 login attempts
+Mon Dec 20 18:27:24 2021	display account
+Mon Dec 20 18:27:24 2021	account > 2
+Mon Dec 20 18:27:26 2021	View Account: Testy McTesterface
+Mon Dec 20 18:27:26 2021	add transaction > home > quit
+Mon Dec 20 18:27:29 2021	quit
+Mon Dec 20 18:27:53 2021	Loading account data...
+Mon Dec 20 18:27:53 2021	Done
+Mon Dec 20 18:27:55 2021	Login attempt by user: demo
+Mon Dec 20 18:27:56 2021	Success after 1 login attempts
+Mon Dec 20 18:28:01 2021	feaffafae
+Mon Dec 20 18:28:01 2021	Invalid instruction. Type "help" for a list of valid instructions.
+Mon Dec 20 18:28:06 2021	display account
+Mon Dec 20 18:28:06 2021	account > 2
+Mon Dec 20 18:28:07 2021	View Account: Testy McTesterface
+Mon Dec 20 18:28:07 2021	add transaction > home > wfawefafe
+Mon Dec 20 18:28:13 2021	quit
+Mon Dec 20 18:28:17 2021	Loading account data...
+Mon Dec 20 18:28:17 2021	Done
+Mon Dec 20 18:28:19 2021	Login attempt by user: demo
+Mon Dec 20 18:28:20 2021	Success after 1 login attempts
+Mon Dec 20 18:28:22 2021	Login attempt by user: demo
+Mon Dec 20 18:28:23 2021	Success after 2 login attempts
+Mon Dec 20 18:28:23 2021	Login attempt by user: fefa
+Mon Dec 20 18:28:24 2021	Success after 3 login attempts
+Mon Dec 20 18:28:24 2021	Login attempt by user: fea
+Mon Dec 20 18:28:24 2021	Success after 4 login attempts
+Mon Dec 20 18:28:25 2021	Login attempt by user: af
+Mon Dec 20 18:28:25 2021	Success after 5 login attempts
+Mon Dec 20 18:28:25 2021	Login attempt by user: ea
+Mon Dec 20 18:28:26 2021	Success after 6 login attempts
+Mon Dec 20 18:28:26 2021	Login attempt by user: f
+Mon Dec 20 18:28:26 2021	Success after 7 login attempts
+Mon Dec 20 18:28:26 2021	Login attempt by user: fe
+Mon Dec 20 18:28:27 2021	Success after 8 login attempts
+Mon Dec 20 18:28:27 2021	Login attempt by user: fd
+Mon Dec 20 18:28:28 2021	Success after 9 login attempts
+Mon Dec 20 18:28:28 2021	Login attempt by user: af
+Mon Dec 20 18:28:28 2021	Success after 10 login attempts
+Mon Dec 20 18:28:28 2021	Login attempt by user: fa
+Mon Dec 20 18:28:29 2021	Success after 11 login attempts
+Mon Dec 20 18:28:29 2021	Login attempt by user: f
+Mon Dec 20 18:28:29 2021	Rejected after 11 login attempts
+Mon Dec 20 19:22:14 2021	Loading account data...
+Mon Dec 20 19:22:14 2021	Done
+Mon Dec 20 19:22:18 2021	Login attempt by user: demo
+Mon Dec 20 19:22:20 2021	Success after 1 login attempts
+Mon Dec 20 19:22:45 2021	show accounts
+Mon Dec 20 19:26:22 2021	display account
+Mon Dec 20 19:26:22 2021	account > 1
+Mon Dec 20 19:26:23 2021	View Account: Bob Boberson
+Mon Dec 20 19:26:23 2021	add transaction > home > home
+Mon Dec 20 19:27:36 2021	display account
+Mon Dec 20 19:27:36 2021	account > 11
+Mon Dec 20 19:27:56 2021	View Account: Catman Fuzzypants
+Mon Dec 20 19:27:56 2021	add transaction > home > home
+Mon Dec 20 19:32:04 2021	quit
+Mon Dec 20 19:32:07 2021	Loading account data...
+Mon Dec 20 19:32:07 2021	Done
+Mon Dec 20 19:32:10 2021	Login attempt by user: demo
+Mon Dec 20 19:32:19 2021	Success after 1 login attempts
+Mon Dec 20 19:32:24 2021	help
+Mon Dec 20 19:32:31 2021	show accounts
+Mon Dec 20 19:32:44 2021	display account 11
+Mon Dec 20 19:32:44 2021	Invalid instruction. Type "help" for a list of valid instructions.
+Mon Dec 20 19:32:46 2021	
+Mon Dec 20 19:32:46 2021	Invalid instruction. Type "help" for a list of valid instructions.
+Mon Dec 20 19:32:52 2021	display accout
+Mon Dec 20 19:32:52 2021	Invalid instruction. Type "help" for a list of valid instructions.
+Mon Dec 20 19:32:58 2021	display account
+Mon Dec 20 19:32:58 2021	account > 11
+Mon Dec 20 19:33:00 2021	View Account: Catman Fuzzypants
+Mon Dec 20 19:33:00 2021	add transaction > home > quit
+Mon Dec 20 19:33:17 2021	quit
+Mon Dec 20 21:11:24 2021	Loading account data...
+Mon Dec 20 21:11:24 2021	Done
+Mon Dec 20 21:11:26 2021	Login attempt by user: demo
+Mon Dec 20 21:11:27 2021	Success after 1 login attempts
+Mon Dec 20 21:11:31 2021	show accounts
+Mon Dec 20 21:11:38 2021	help
+Mon Dec 20 21:11:41 2021	search name
+Mon Dec 20 21:11:41 2021	enter name > Bob
+Mon Dec 20 21:11:46 2021	i. Steve Blob
+Mon Dec 20 21:11:46 2021	ii. Bobby Parsons
+Mon Dec 20 21:11:46 2021	iii. Bob Parson
+Mon Dec 20 21:11:46 2021	iv. Bob Parsons
+Mon Dec 20 21:11:46 2021	v. Bob Boberson
+Mon Dec 20 21:11:46 2021	vi. Home
+Mon Dec 20 21:11:46 2021	Select number > 4
+Mon Dec 20 21:11:51 2021	View Account: Bob Parsons
+Mon Dec 20 21:11:54 2021	quit
+Mon Dec 20 21:12:25 2021	Loading account data...
+Mon Dec 20 21:12:25 2021	Done
+Mon Dec 20 21:12:28 2021	Login attempt by user: demo
+Mon Dec 20 21:12:29 2021	Success after 1 login attempts
+Mon Dec 20 21:12:34 2021	show accounts
+Mon Dec 20 21:12:40 2021	help
+Mon Dec 20 21:12:43 2021	display account
+Mon Dec 20 21:12:43 2021	account > 33
+Mon Dec 20 21:12:47 2021	Invalid account number
+Mon Dec 20 21:12:52 2021	display account
+Mon Dec 20 21:12:52 2021	account > 8
+Mon Dec 20 21:12:57 2021	View Account: Steven Hats
+Mon Dec 20 21:12:57 2021	add transaction > home > add transaction
+Mon Dec 20 21:13:03 2021	debit > credit > home > credit
+Mon Dec 20 21:13:06 2021	amount > 5.25
+Mon Dec 20 21:13:10 2021	New balance: 1752
+Mon Dec 20 21:13:10 2021	debit > credit > home > debit
+Mon Dec 20 21:13:20 2021	amount > 5000
+Mon Dec 20 21:13:22 2021	Insufficient Balance
+Mon Dec 20 21:13:22 2021	debit > credit > home > home
+Mon Dec 20 21:13:30 2021	help
+Mon Dec 20 21:13:33 2021	show accounts
+Mon Dec 20 21:13:34 2021	help
+Mon Dec 20 21:13:38 2021	new account
+Mon Dec 20 21:13:38 2021	Customer Name > New Guy
+Mon Dec 20 21:13:41 2021	SSN > SSN hidden
+Mon Dec 20 21:13:46 2021	Account Created
+Mon Dec 20 21:13:55 2021	close account
+Mon Dec 20 21:13:55 2021	account > 14
+Mon Dec 20 21:13:59 2021	Account to close: Someguy Demoname
+Mon Dec 20 21:14:00 2021	Account closed
+Mon Dec 20 21:14:04 2021	close account
+Mon Dec 20 21:14:04 2021	account > 16
+Mon Dec 20 21:14:06 2021	Account to close: Fuzzy Lumpkins
+Mon Dec 20 21:14:08 2021	Account not closed
+Mon Dec 20 21:14:11 2021	close account
+Mon Dec 20 21:14:11 2021	account > 55
+Mon Dec 20 21:14:13 2021	Account not found
+Mon Dec 20 21:14:16 2021	close account
+Mon Dec 20 21:14:16 2021	account > 16
+Mon Dec 20 21:14:20 2021	Account to close: Fuzzy Lumpkins
+Mon Dec 20 21:14:22 2021	Account not closed
+Mon Dec 20 21:14:30 2021	quit
